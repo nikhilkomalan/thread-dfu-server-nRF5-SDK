@@ -10,7 +10,7 @@ Python Lib: aiocoap
  
     cd thread-dfu-server-nRF5-SDK/src/
   
-    python3 main.py -f <firnware.zip> '<end device ipv6 addr>'
+    python3 main.py -f <firnware.zip> 'end device ipv6 addr'
   
     For Eg.: 
     python3 main.py -f ota.zip 'fd0f:9505:d2d2:7961:171b:f828:409d:3ca3'
